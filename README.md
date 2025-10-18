@@ -38,6 +38,8 @@
 
 ## 👩‍💻 Автор
 **Iryna Petryshyna**  
-Аналітик даних  
-📊 Python | SQL | Tableau  |   Google Spreadsheets
+Аналітик даних   
+📊 Створено у 2025 році як навчально-дослідницький проєкт з аналізу основних точок відтоку користувачів на шляху від завантаження додатку Metrocar до завершення поїздки.
+
 🔗 [LinkedIn профіль](https://www.linkedin.com/in/iryna-petryshyna-191b08338/)
+
