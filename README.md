@@ -57,5 +57,5 @@
 ## 👩‍💻 Автор
 **Iryna Petryshyna**  
 Аналітик даних  
-📊 Python | SQL | Tableau  
+📊 Python | SQL | Tableau  |   Google Spreadsheets
 🔗 [LinkedIn профіль](https://www.linkedin.com/in/iryna-petryshyna-191b08338/)
