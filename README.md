@@ -1,4 +1,4 @@
-# 🚗 Metrocar Data Analysis – User Journey & Revenue Insights (SQL + Tableau)
+# 🚗 Metrocar Data Analysis – User Journey & Revenue Insights (SQL, Google Spreadsheets, Tableau)
 
 ## 🎯 Мета проєкту
 Компанія Metrocar - платформа для виклику авто. Метою її діяльності є покращення користувацького досвіду та збільшення кількості завершених поїздок.
