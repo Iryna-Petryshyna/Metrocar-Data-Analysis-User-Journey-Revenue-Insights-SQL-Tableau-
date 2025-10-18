@@ -54,19 +54,6 @@
 
 ---
 
-## 📸 Tableau Dashboard Preview
-![Dashboard Preview](https://github.com/Iryna-Petryshyna/Metrocar-Data-Analysis-User-Journey-Revenue-Insights-SQL-Tableau-/blob/main/Без%20имени.jpg?raw=true)
-
----
-
-## 💡 Висновки
-Дані дозволяють компанії Metrocar:
-- оптимізувати графік роботи водіїв у години пік;  
-- точніше прогнозувати попит;  
-- підвищити утримання користувачів завдяки персоналізованим акціям.  
-
----
-
 ## 👩‍💻 Автор
 **Iryna Petryshyna**  
 Аналітик даних  
